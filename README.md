@@ -1,2 +1,2 @@
 # assembly_qs
-RISC-V - Assembly language practice questions and algorithmic implementations for low-level programming.
+RISC-V - assembly language practice questions and algorithmic implementations for low-level programming.
